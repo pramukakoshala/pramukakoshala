@@ -8,8 +8,10 @@
 
 <div align="center">
 
- ⚡ I’m currently studying in **Eastern University**
- ⚡ I’m currently learning **Python, React and JavaScript**
+ 🔭 I’m currently studying in **Eastern University**
+ 
+ 🌱 I’m currently learning **Python, React and JavaScript**
+ 
  ⚡ I’m currently learning in **Sololearn, DP Education and Udemy**
 
  </div>
